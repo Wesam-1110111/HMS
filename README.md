@@ -23,3 +23,18 @@ To run the House Management System locally, follow these steps:
 ```bash
 git clone git@github.com:Wesam-1110111/HMS.git
 ```
+2. Navigate to the project directory:
+```bash
+cd HMS
+```
+3. Install dependencies: Make sure you have Java installed. You can download it [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+4. Set up the database:
+
+Ensure your database (e.g., MySQL or SQLite) is installed.  
+Run the SQL scripts provided in the ``database`` folder to create the necessary tables.
+5. Compile and run the project: **(Under update...)**
+
+```bash
+javac -cp . src/com/hms/Main.java
+java -cp . com.hms.Main
+```
