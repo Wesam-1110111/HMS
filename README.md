@@ -28,9 +28,9 @@ git clone git@github.com:Wesam-1110111/HMS.git
 cd HMS
 ```
 3. **Install dependencies:** Make sure you have Java installed. You can download it [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
-4. **Set up the database:**
+4. **Set up the database:**  
    Ensure your database (e.g., MySQL or SQLite) is installed.  
-   Run the SQL scripts provided in the ``database`` folder to create the necessary tables.
+   Run the SQL scripts provided in the ``database`` folder to create the necessary tables.  
 5. **Compile and run the project:** **(Under update...)**
 
 ```bash
