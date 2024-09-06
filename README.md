@@ -13,8 +13,8 @@ Welcome to the House Management System! This project is designed to manage house
 - **Java:** Core programming language.
 - **OOP:** For objects.
 - **JDBC:** For database connectivity.
-- **Swing/JavaFX:** For building the GUI (mention which one you used).
-- **MySQL/SQLite:** For database management (replace with the actual DB you used).
+- **Swing/JavaFX:** For building the GUI.
+- **MySQL/SQLite:** For database management.
 
 ## Setup and Installation
 To run the House Management System locally, follow these steps:
