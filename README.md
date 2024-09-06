@@ -38,3 +38,10 @@ Run the SQL scripts provided in the ``database`` folder to create the necessary 
 javac -cp . src/com/hms/Main.java
 java -cp . com.hms.Main
 ```
+## Usage
+1. Login: Enter the username and password to access the system.
+2. Dashboard: Once logged in, you can navigate through different sections:
+   - Tenants: Manage tenant information.
+   - Rent: View and manage rent payments.
+   - Maintenance: Schedule and track house maintenance tasks.
+3. Logout: Securely log out after using the system.
