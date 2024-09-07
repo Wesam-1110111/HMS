@@ -1,7 +1,7 @@
 # House Management System (HMS)
 [![Release](https://img.shields.io/badge/Release-2.0-green)](https://github.com/Wesam-1110111/HMS/releases/tag/2.0)
 
-Welcome to the House Management System! This project is designed to manage house-related activities such as tenant management, rent tracking, and maintenance scheduling. It is built using Java and follows a modular design for easy scalability.
+Welcome to the **House Management System**! This project is designed to manage house-related activities such as tenant management, rent tracking, and maintenance scheduling. It is built using Java and follows a modular design for easy scalability.
 
 ### Features
 - Tenant Management **(Soon)**: Add, edit, and remove tenant details.
